@@ -47100,7 +47100,7 @@ p.mV()
 p.aq()
 h=C.aZ
 s=5
-return P.a5(l.BF("presidents.json"),$async$hA)
+return P.a5(l.BF("assets/presidents.json"),$async$hA)
 case 5:s=4
 return P.a5(h.cs(0,b),$async$hA)
 case 4:n=b
