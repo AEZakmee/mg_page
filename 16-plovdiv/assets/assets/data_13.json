@@ -1,5 +1,7 @@
 {
   "peopleNumber" : 18,
+  "cheatEnabled" : true,
+  "cheatNumber" : 33,
   "parties" : [
     {
       "number": 2,
